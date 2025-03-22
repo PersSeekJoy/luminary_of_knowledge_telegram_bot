@@ -1,0 +1,5 @@
+from keyboards.main_menu import set_main_menu
+from keyboards.menu_keyboards import menu_keyboard
+from keyboards.pagination_keyboard import create_pagination_keyboard
+from keyboards.facts_categories_keyboard import categories_keyboard
+from keyboards.facts_pagination_keyboard import create_facts_pagination_keyboard
